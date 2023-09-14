@@ -2,7 +2,7 @@
  No final, mostre os valores pares e ímpares em ordem crescente.'''
 
 listanum=[[],[]]
-for i in range(0,3):
+for i in range(0,8):
     num=int(input(f"Digite o {i+1} valor: "))
     if num%2==0:
         listanum[0].append(num)
