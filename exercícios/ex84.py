@@ -30,4 +30,5 @@ while True:
 
 # print(cadastro)
 print(f"Foram registradas {len(cadastro)} pessoas!")
-print(f"A lista com as pessoas mais leves é formada por: ")
+print(f"A pessoa mais leves é {leve}")
+print(f"A pessoas mais pesada é {pesado}")
